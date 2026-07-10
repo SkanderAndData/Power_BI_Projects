@@ -72,8 +72,9 @@ Strategic FP&A summary page combining the PVM bridge with insights and recommend
 - **PVM Gross Profit Bridge** — waterfall chart decomposing PY→CY profit movement: Volume, Price, Discount, Cost, and Mix Impact
 - **5 Key Insights panels** — each pairing a quantified finding with a strategic recommendation
 
-![Dashboard 1 Preview](Vanzard_Financial_Analysis_PowerBI/Screenshots/page1_Executive_Insights.JPG)
+**Executive Insights & Recommendations Dashboard Preview**
 
+![Dashboard 1 Preview](https://github.com/SkanderAndData/Power_BI_Projects/blob/main/Vanzard_Financial_Analysis_PowerBI/Screenshots/Page1_Executive_Insights.JPG)
 
 ### Page 2 — Market Performance
 Operational overview of revenue trends, geographic distribution, and segment-level profitability.
@@ -83,6 +84,10 @@ Operational overview of revenue trends, geographic distribution, and segment-lev
 - **Gross Profit by Segment** — waterfall chart showing segment contribution to total
 - **Gross Profit %GT by Country and Product** — drill-down profit matrix with product-level breakdown
 
+**Market Performance Dashboard Preview**
+
+![Dashboard 2 Preview](https://github.com/SkanderAndData/Power_BI_Projects/blob/main/Vanzard_Financial_Analysis_PowerBI/Screenshots/Page2_Market_Performance.JPG)
+
 ### Page 3 — Portfolio & Profitability Drivers
 Deep-dive into margin quality, discount exposure, and product revenue ranking.
 - **6 KPI Cards** — set consistently with page 2 for cross-page reference
@@ -90,6 +95,10 @@ Deep-dive into margin quality, discount exposure, and product revenue ranking.
 - **Discount Band Breakdown** — donut chart segmented by Band (High | Medium | Low)
 - **Top 3 Products by Sales** — dynamic top 3 ranking and highlighting bar chart
 - **Gross Profit Margin % by Segment and Product** — matrix table showing product-level margins within each segment with conditional formatting
+
+**Portfolio & Profitability Drivers Dashboard Preview**
+
+![Dashboard 3 Preview](https://github.com/SkanderAndData/Power_BI_Projects/blob/main/Vanzard_Financial_Analysis_PowerBI/Screenshots/Page3_Portfolio_Drivers.JPG)
 
 ---
 
