@@ -27,7 +27,7 @@ As a Senior Financial Analyst using Power BI modern development practices to str
 * **Geospatial Analysis:** Mapping geographic financial data for regional performance insights.
 * **Interactive UX:** Implementing slicers, buttons, and drill-through functionality for deep-dive analysis.
 
-📂 **[View Full Project Details (README)](./[your-project-folder]/README.md)**
+📂 **[View Full Project Details (README)](./Vanzard_Financial_Analysis_PowerBI/README.md)**
 
 ---
 
