@@ -13,11 +13,20 @@ As a Senior Financial Analyst using Power BI modern development practices to str
 
 > A financial analysis solution built in Power BI, demonstrating end-to-end BI development — from data handling and modeling to dynamic interactive reporting and surfacing insights.
 
-![Dashboard 1 Preview](assets/screenshot.png)
+📂 **[View Full Project Details (README)](./Vanzard_Financial_Analysis_PowerBI/README.md)**
 
-![Dashboard 2 Preview](assets/screenshot.png)
+**Page 1 — Executive Insights & Recommendations Dashboard Preview**
 
-![Dashboard 3 Preview](assets/screenshot.png)
+![Dashboard 1 Preview](Vanzard_Financial_Analysis_PowerBI/Screenshots/Page1_Executive_Insights.JPG)
+
+**Page 2 — Market Performance Dashboard Preview**
+
+![Dashboard 2 Preview](Vanzard_Financial_Analysis_PowerBI/Screenshots/Page2_Market_Performance.JPG)
+
+**Page 3 — Portfolio & Profitability Drivers Dashboard Preview**
+
+![Dashboard 3 Preview](Vanzard_Financial_Analysis_PowerBI/Screenshots/Page3_Portfolio_Drivers.JPG)
+
 
 **Key Skills & Techniques Demonstrated:**
 * **Power Query (ETL):** Data shaping and transformation for financial datasets.
@@ -26,8 +35,6 @@ As a Senior Financial Analyst using Power BI modern development practices to str
 * **Financial Visualization:** Financial KPI design. Designing intuitive interactive visualizations for financial charts.
 * **Geospatial Analysis:** Mapping geographic financial data for regional performance insights.
 * **Interactive UX:** Implementing slicers, buttons, and drill-through functionality for deep-dive analysis.
-
-📂 **[View Full Project Details (README)](./Vanzard_Financial_Analysis_PowerBI/README.md)**
 
 ---
 
