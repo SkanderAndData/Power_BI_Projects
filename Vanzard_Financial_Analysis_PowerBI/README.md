@@ -72,6 +72,9 @@ Strategic FP&A summary page combining the PVM bridge with insights and recommend
 - **PVM Gross Profit Bridge** — waterfall chart decomposing PY→CY profit movement: Volume, Price, Discount, Cost, and Mix Impact
 - **5 Key Insights panels** — each pairing a quantified finding with a strategic recommendation
 
+![Dashboard 1 Preview](Vanzard_Financial_Analysis_PowerBI/Screenshots/page1_Executive_Insights.JPG)
+
+
 ### Page 2 — Market Performance
 Operational overview of revenue trends, geographic distribution, and segment-level profitability.
 - **6 KPI Cards** — Units Sold, COGS, Discount, Net Sales, Gross Profit, Gross Profit Margin % — CY value, PY value, and YoY variance %
